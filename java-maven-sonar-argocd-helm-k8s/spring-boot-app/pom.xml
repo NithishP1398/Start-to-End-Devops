@@ -23,12 +23,6 @@
         <maven.compiler.target>11</maven.compiler.target>
         <java.version>11</java.version>
     </properties>
-
-         <properties>
-    <sonar.login>1e6e3c714e5cd92f84da3d73b776166a79c679da</sonar.login>
-</properties>
-
-
     <dependencies>
 
         <dependency>
